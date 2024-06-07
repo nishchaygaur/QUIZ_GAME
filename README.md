@@ -22,4 +22,4 @@ Before stating the scope of work needed for this project, it's essential first t
 - **Code Structure**: Organize your code into functions or classes for better readability and maintainability.
 
 ###Project Demo
-[![Watch the video](https://i.sstatic.net/Vp2cE.png)](https://youtu.be/oSPgpt2Q-vY)
+[![Watch the video](https://i9.ytimg.com/vi/oSPgpt2Q-vY/mqdefault.jpg?sqp=CKj3irMG-oaymwEmCMACELQB8quKqQMa8AEB-AG6CYAC0AWKAgwIABABGF0gXShdMA8=&rs=AOn4CLAILp3ayMvwx33mVkm-yCoqlg2NIg)](https://youtu.be/oSPgpt2Q-vY)
